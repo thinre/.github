@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/thinre/.github/main/profile/assets/thinre-mark.svg" alt="Thinre" width="76" height="76" />
+<img src="https://raw.githubusercontent.com/thinre/.github/main/profile/assets/thinre-mark-white.svg" alt="Thinre" width="76" height="76" />
 
 # Thinre
 
